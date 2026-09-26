@@ -40,6 +40,9 @@ Personal-Portfolio-Website/
 ├── script.js
 └── assets/
 
+## GitHub Repository
+
+https://github.com/parulyadav0018-png/Personal-Portfolio-Website
 
 ## GitHub Repository
 https://github.com/parulyadav0018-png/Personal-Portfolio-Website/edit/main/README.md
